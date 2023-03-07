@@ -1,5 +1,7 @@
 ### Hi there 👋 My Name Gbolahan Towobola
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbolahant)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Gbolahant/gbolahant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

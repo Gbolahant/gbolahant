@@ -1,4 +1,4 @@
-### Hi there 👋 My Name Gbolahan Towobola
+### Hi there 👋 My Name is Gbolahan Towobola
 - 🔭 I’m currently working as Credit Portfolio Analyst
 
 - ⚡ Fun fact: I own a reputable esport team 

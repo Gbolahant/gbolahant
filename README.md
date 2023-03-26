@@ -1,9 +1,41 @@
-### Hi there 👋 My Name is Gbolahan Towobola
-- 🔭 I’m currently working as Credit Portfolio Analyst
+<h1 align="center">Hi 👋, I'm Gbolahan Towobola</h1>
+<h3 align="center">A passionate Business Intelligence Analyst from Nigeria</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- ⚡ Fun fact: I own a reputable esport team 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbolahant)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbolahant&label=Profile%20views&color=0e75b6&style=flat" alt="gbolahant" /> </p>
+
+<p align="left"> <a href="https://twitter.com/gbolahant1" target="blank"><img src="https://img.shields.io/twitter/follow/gbolahant1?logo=twitter&style=for-the-badge" alt="gbolahant1" /></a> </p>
+
+- 🔭 I’m currently working on **Inventory Optimization**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/gbolahantowobola/home](https://sites.google.com/view/gbolahantowobola/home)
+
+- 💬 Ask me about **Data Visualization**
+
+- 📫 How to reach me **Gbolahant@gmail.com**
+
+- ⚡ Fun fact **I own a sucessful E-sport team**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gbolahant1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gbolahant1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gbolahantowobola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbolahantowobola1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbolahant&show_icons=true&locale=en&layout=compact" alt="gbolahant" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbolahant&show_icons=true&locale=en" alt="gbolahant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbolahant&" alt="gbolahant" /></p>
+
+
 
 <!--
 **Gbolahant/gbolahant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

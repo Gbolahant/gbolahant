@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Inventory Optimization**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Power Automate**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/gbolahantowobola/home](https://sites.google.com/view/gbolahantowobola/home)
 

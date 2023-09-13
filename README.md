@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Inventory Optimization**
 
-- 🌱 I’m currently learning **Power Automate**
+- 🌱 I’m currently learning **Power Platform**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/gbolahantowobola/home](https://sites.google.com/view/gbolahantowobola/home)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Gbolahant@gmail.com**
 
-- ⚡ Fun fact **I own a sucessful E-sport team**
+- ⚡ Fun fact **I own a successful E-sport team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
